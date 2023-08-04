@@ -25,5 +25,7 @@ Basic java program and related stuff
 
 
 
-https://github.com/ShubhamKumarSingh565/Bank-Management-System-ATM/assets/63440492/07032868-2259-460b-8bc0-cef2dc39681b
+
+https://github.com/ShubhamKumarSingh565/Bank-Management-System-ATM/assets/63440492/4880cfee-b868-4ba4-bd17-f8186145bf63
+
 
